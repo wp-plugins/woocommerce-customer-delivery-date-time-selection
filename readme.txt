@@ -12,7 +12,7 @@ Allow the customers to choose an order delivery date and time on the checkout pa
 
 == Description ==
 
-This plugin will allow the customer to choose an order delivery date and time on the checkout page. The customer can choose any delivery date that is after the current date.
+This plugin will allow the customer to choose an order delivery date and time on the checkout page. The customer can choose any delivery date from dropdown menu which is previously the site admin set.
 
 The plugin allows the site administrator to select delivery date and time schedule.
 
@@ -31,11 +31,11 @@ This plugin allows you to improve your customer service by delivering the order 
 
 1. The Delivery date field will be visible on checkout page, according to the settings.
 
-2. The selected delivery date will be shown in "Custom Fields" in Sales Log.
+2. Delivery Date will be displayed on the Orders page in a new column titled "Delivery Date".
 
-3. Delivery Date will be displayed on the Orders page in a new column titled "Delivery Date".
+3. The selected delivery date will be shown in "Custom Fields" in Sales Log.
 
-4. Admin menu settings field .
+4. Site admin is able to set his shop delivery schedule by checking the date and set time for open to close .
 
 == Changelog ==
 
