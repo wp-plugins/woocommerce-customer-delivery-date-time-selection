@@ -1,0 +1,7 @@
+.hidden_delivery_time{
+	display: none;
+}
+#my_custom_checkout_field{
+    width: 100% !important;
+    float: left !important;
+}
