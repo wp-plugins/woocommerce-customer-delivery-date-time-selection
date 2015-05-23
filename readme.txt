@@ -8,7 +8,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: http://myplugin.tophostbd.com/
 
-Allow the customers to choose an order delivery date and time on the checkout page for Woocommerce store owners.
+Allow the customers to choose an order delivery date and time on the checkout page which is visible to admin order page.
 
 == Description ==
 
