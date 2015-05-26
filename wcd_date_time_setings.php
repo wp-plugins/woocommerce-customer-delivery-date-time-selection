@@ -7,7 +7,7 @@
         update_option('wcd_settings',$wcd_settings);
 
 		// getting selected dates and times
-		$dd = sanitize_text_field($_POST['delivery_date']);
+		$dd = $_POST['delivery_date'];
 		$options_value = array();
 		if(!empty($dd)){
 			$N = count($dd);
