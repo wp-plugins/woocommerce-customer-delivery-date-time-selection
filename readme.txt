@@ -2,7 +2,7 @@
 Contributors: Md. Muntasir Rahman
 Tags: customer delivery date, checkout, order delivery, checkout calendar, woocommerce , delivery date time selection, delvery date
 Requires at least: 1.4
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: wcd
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
